@@ -9,4 +9,4 @@
  *  - https://vercel.com/docs/serverless-functions/supported-languages#node.js
  *  - https://vercel.com/docs/runtimes#advanced-usage/advanced-node-js-usage/aws-lambda-api
  */
-exports.handler = require('../src/serverless').handler
+exports.handler = require('Ackee/Ackee/src/serverless').handler
